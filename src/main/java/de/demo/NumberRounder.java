@@ -1,4 +1,4 @@
-package org.example;
+package de.demo;
 
 import java.util.List;
 import java.util.stream.Collectors;
